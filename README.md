@@ -1,5 +1,5 @@
 # Person Detection API
-![Uploading image.png…]()
+![Description of the image](https://github.com/MMuzykant00/Python_ML/raw/main/person_detecion_with_FastAPI/wynik.jpg)
 
 ## Description
 This project is a simple API for detecting persons in images. It uses the YOLO (You Only Look Once) model for object detection. The API can process images from local files, URLs, or directly uploaded by the user.
