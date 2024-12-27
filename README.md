@@ -1,4 +1,5 @@
 # Person Detection API
+![Uploading image.png…]()
 
 ## Description
 This project is a simple API for detecting persons in images. It uses the YOLO (You Only Look Once) model for object detection. The API can process images from local files, URLs, or directly uploaded by the user.
